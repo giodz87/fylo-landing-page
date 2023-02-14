@@ -295,7 +295,8 @@ li {
     line-height: 19px;
   }
   .conteiner {
-    padding: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
     position: relative;
     display: flex;
     flex-direction: row;
